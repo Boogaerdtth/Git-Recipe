@@ -1,12 +1,12 @@
-recept hamburger
+Recept hamburger
 
-ingredienten:
-1
-2
-3
-4
-5
-6
-7
-8
-9
+Ingredienten:
+* Broodje
+* Hamburger Black Angus 150gr
+* Ijsbergsla
+* Augurk
+* Kethup
+* Mayonaise
+* Ontbijtspek
+* Ui
+
